@@ -1,0 +1,6 @@
+{
+  "name": "AI Coding Agent UI",
+  "description": "An interactive, full-stack AI coding assistant and workspace simulator featuring live terminal execution, directory file scanning, slash commands, and an animated canvas-based codebase mind map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
